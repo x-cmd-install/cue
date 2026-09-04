@@ -7,7 +7,7 @@ about:
   head: 2362858
   archived: true
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T19:24:21Z
+  collectedAt: 2026-09-04T21:07:32Z
 timeline:
   created: 2019-01-28
   lastCommit: 2021-07-14
@@ -82,6 +82,54 @@ total:
   openIssue: 1
   commit: 1527
 ---
+path: /home/runner/.x-repo/github.com/cuelang/cue
+collectedAt: 2026-09-04T21:07:34Z
+loc:
+  Go:
+    code: 75079
+    comments: 18539
+    blanks: 11361
+    files: 456
+  Json:
+    code: 2990
+    comments: 0
+    blanks: 0
+    files: 21
+  Yaml:
+    code: 1789
+    comments: 177
+    blanks: 76
+    files: 36
+  Protobuf:
+    code: 961
+    comments: 2285
+    blanks: 464
+    files: 23
+  Dockerfile:
+    code: 25
+    comments: 2
+    blanks: 1
+    files: 1
+  ForgeConfig:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4441
+    blanks: 1415
+    files: 11
+  Text:
+    code: 0
+    comments: 7586
+    blanks: 1498
+    files: 183
+total:
+  code: 80847
+  comments: 33030
+  blanks: 14815
+  files: 732
 ---
 date: "2026-08-24"
 repo:
