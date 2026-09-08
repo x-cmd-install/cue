@@ -5,7 +5,7 @@ about:
   head: 2362858
   archived: true
   latestVersion: "v0.4.0"
-  collectedAt: 2026-09-08T02:51:33Z
+  collectedAt: 2026-09-08T05:40:17Z
 timeline:
   created: 2019-01-28
   lastCommit: 2021-07-14
@@ -81,7 +81,7 @@ total:
   commit: 1527
 ---
 path: /home/runner/.x-repo/github.com/cuelang/cue
-collectedAt: 2026-09-08T02:51:35Z
+collectedAt: 2026-09-08T05:40:20Z
 loc:
   Go:
     code: 75079
