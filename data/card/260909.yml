@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: "v0.3.0-alpha4"
-  collectedAt: 2026-09-09T05:50:31Z
+  collectedAt: 2026-09-09T20:02:12Z
 timeline:
   created: 2019-01-28
   lastCommit: 2021-07-14
@@ -85,7 +85,7 @@ total:
   commit: 1527
 ---
 path: /home/runner/.x-repo/github.com/cuelang/cue
-collectedAt: 2026-09-09T05:50:34Z
+collectedAt: 2026-09-09T20:02:16Z
 loc:
   Go:
     code: 75079
