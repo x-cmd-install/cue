@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6069226,
       "digest": null,
-      "download_count": 38807,
+      "download_count": 38808,
       "created_at": "2021-05-25T13:11:31Z",
       "updated_at": "2021-05-25T13:11:32Z",
       "browser_download_url": "https://github.com/cuelang/cue/releases/download/v0.4.0/cue_v0.4.0_linux_amd64.tar.gz"
